@@ -39,3 +39,7 @@ Note: You must write code as data science perspective. Do not implement numerica
 
 However, for all models you can use sklearn at the end of the project to show comparison between your developped module and existing module.
 
+<!-- Contact -->
+## :handshake: Contact
+
+Mohsenul Kabir Mithun - [@kabirmohsenul](https://twitter.com/kabirmohsenul) - mk_mithun@yahoo.com

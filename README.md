@@ -1,10 +1,10 @@
 ﻿# Forecasting-of-covid-19
  
  ## Project Report
- #### Part A--- [Report Part A.pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332001/Report.Part.A.pdf)
- #### Part B--- [Report Part B.pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332002/Report.Part.B.pdf)
- #### Part C---[Report Part C.pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332011/Report.Part.C.pdf)
- #### Part C cont..---[Report Part C cont...pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332006/Report.Part.C.cont.pdf)
+ >- Part A--- [Report Part A.pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332001/Report.Part.A.pdf)
+ >- Part B--- [Report Part B.pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332002/Report.Part.B.pdf)
+ >- Part C---[Report Part C.pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332011/Report.Part.C.pdf)
+ >- Part C cont..---[Report Part C cont...pdf](https://github.com/Mi-Thun/Forecasting-of-Covid-19/files/10332006/Report.Part.C.cont.pdf)
 
  
  ## Project Description
